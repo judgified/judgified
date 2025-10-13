@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @judgified
+- 👋 Hi, I’m @judgified also known as Alena
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me alenaeshaya1@gmail.com
