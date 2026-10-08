@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @judgified also known as Alena
-- 🌱 I’m currently a junior at Loyola focuusing on learning Python this semester.
-- 💞️ I’m always looking to collaborate on projects
+- 🌱 I’m currently a senior at Loyola focusing on Researching AI + HCI.
+- 💞️ I’m always looking to collaborate on projects and professional opportunities 
 - 📫 How to reach me alenaeshaya1@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: My current favorite language is Java and I am very interested in Human Computer Interactions!
+- ⚡ Fun fact: My current favorite language is Java and Python and I am very interested in Human Computer Interactions!
 
 
 <!---
