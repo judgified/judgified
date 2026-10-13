@@ -3,7 +3,7 @@
 - 💞️ I’m always looking to collaborate on projects and professional opportunities 
 - 📫 How to reach me alenaeshaya1@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: My current favorite language is Java and Python and I am very interested in Human Computer Interactions!
+- ⚡ Fun fact: My current favorite languages is Java and Python and I am very interested in Human Computer Interactions!
 
 
 <!---
